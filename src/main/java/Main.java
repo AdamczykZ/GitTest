@@ -4,6 +4,7 @@ public class Main {
     }
 
     private void displayText(){
-        System.out.println("Zmiana w drugim repo")
+        System.out.println("Zmiana w drugim repo");
     }
+    
 }
